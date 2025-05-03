@@ -1,9 +1,9 @@
-📊Análise de Dados - Excel
-Orçamento Familiar
+#  📊Análise de Dados - Excel
+##  Orçamento Familiar
 
 Este projeto demonstra técnicas de análise de dados utilizando o Microsoft Excel, uma ferramenta amplamente utilizada para manipulação e interpretação de dados. Através de exemplos práticos, são abordadas funcionalidades como Tabelas Dinâmicas, Gráficos, Fórmulas e Suplementos, proporcionando uma compreensão sólida das capacidades analíticas do Excel.
 
-🎯 Objetivo
+###  🎯 Objetivo
 Capacitar usuários a:
 
 Importar e organizar dados de diferentes fontes;
@@ -16,7 +16,7 @@ Gerar gráficos para visualização de padrões e tendências;
 
 Utilizar suplementos como o "Ferramentas de Análise" para análises avançadas.
 
-🛠️ Tecnologias Utilizadas
+###  🛠️ Tecnologias Utilizadas
 Microsoft Excel
 
 
@@ -25,9 +25,9 @@ Suplemento "Ferramentas de Análise"
 Power Query (opcional)
 Microsoft Create
 
-📸 Demonstração
+###  📸 Demonstração
 
-🚀 Como Usar
+###  🚀 Como Usar
 Abra o arquivo Excel fornecido no repositório.
 
 Navegue pelas abas para explorar diferentes análises.
