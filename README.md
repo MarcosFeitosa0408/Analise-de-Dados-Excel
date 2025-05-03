@@ -26,6 +26,8 @@ Power Query (opcional)
 Microsoft Create
 
 ###  📸 Demonstração
+[Planilha_Orcamento_Domestico.xlsx](https://github.com/user-attachments/files/20024485/Planilha_Orcamento_Domestico.xlsx)
+
 
 ###  🚀 Como Usar
 Abra o arquivo Excel fornecido no repositório.
@@ -41,4 +43,5 @@ Em Gerenciar, selecione Suplementos do Excel e clique em Ir.
 Marque a opção Ferramentas de Análise e clique em OK.
 
 Explore as funcionalidades aplicadas em cada aba para entender as técnicas utilizadas.
+
 
